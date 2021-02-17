@@ -13,3 +13,4 @@
   
 # ULP_ADC
 Tento program je len kopiou originalneho programu pre DP pracu
+
